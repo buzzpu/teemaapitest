@@ -1,6 +1,6 @@
 {
     "b2binfo": [{
-            "companyAccount": "370001",
+            "id": "370001",
             "companyName_cht": "大同股份有限公司",
             "companyName_en": "Tatung Co.",
             "B2B_PdtChDescription": "50,000KVA以下水力發電整廠工程及柴油引擎發電機組;工廠動力系統設備 1-30,000 HP各種馬達;耐壓防爆,安全增防爆,高效率低噪音,防震等各型馬達;",
@@ -22,7 +22,7 @@
             "CmpWebSite": "www.tatung.com"
         },
         {
-            "companyAccount": "440002",
+            "id": "440002",
             "companyName_cht": "天立機電工廠股份有限公司",
             "companyName_en": "Stanley Electric Works Co., Ltd.",
             "B2B_PdtChDescription": "無刷直流電動機;三相感應電動機、單相感應電動機;同步電動機;變速電動機;冷氣用電動機;小型馬達;",
@@ -44,7 +44,7 @@
             "CmpWebSite": ""
         },
         {
-            "companyAccount": "450001",
+            "id": "450001",
             "companyName_cht": "大春電機廠股份有限公司",
             "companyName_en": "Jade Electric Manufacture Co., Ltd.",
             "B2B_PdtChDescription": "起重電磁鐵;制動器(電動剎車);矽整流器,矽晶體電力用整流器;自動控制盤;電力用電壓穩定器,電力用穩壓器;穩壓器;電磁離合器;高速保險絲,高速保險片;電纜回收機;矽控整流器;",
