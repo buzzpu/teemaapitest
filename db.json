@@ -20,50 +20,7 @@
             "contactName_cht": "林蔚山",
             "contactName_en": "W.S. Lin",
             "CmpWebSite": "www.tatung.com"
-        },
-        {
-            "companyAccount": "440002",
-            "companyName_cht": "天立機電工廠股份有限公司",
-            "companyName_en": "Stanley Electric Works Co., Ltd.",
-            "B2B_PdtChDescription": "無刷直流電動機;三相感應電動機、單相感應電動機;同步電動機;變速電動機;冷氣用電動機;小型馬達;",
-            "B2B_PdtEnDescription": "B.L.D.C. Motors;;Synchronous Motor;Speed Change Motors;;Miniature Motors;",
-            "companyAddress_cht": "新北市五股區成泰路2段224號",
-            "companyAddress_en": "No. 224, Sec. 2, Cheng-Tai Rd., Wu Ku Dist, New Taipei City 24841, Taiwan, R.O.C",
-            "companyEMail": "hopefulm@ms63.hinet.net",
-            "companyTel_country": null,
-            "companyTel_area": null,
-            "companyTel_number": "02-22922510",
-            "companyTel_ext": null,
-            "companyFax_country": null,
-            "companyFax_area": null,
-            "companyFax_number": "02-22914080",
-            "companyFax_ext": null,
-            "companyKeywordMerge": "三相感應電動機、單相感應電動機,同步電動機,變速電動機,冷氣用電動機,小型馬達",
-            "contactName_cht": "李偉然",
-            "contactName_en": "Lee Wi Jan",
-            "CmpWebSite": ""
-        },
-        {
-            "companyAccount": "450001",
-            "companyName_cht": "大春電機廠股份有限公司",
-            "companyName_en": "Jade Electric Manufacture Co., Ltd.",
-            "B2B_PdtChDescription": "起重電磁鐵;制動器(電動剎車);矽整流器,矽晶體電力用整流器;自動控制盤;電力用電壓穩定器,電力用穩壓器;穩壓器;電磁離合器;高速保險絲,高速保險片;電纜回收機;矽控整流器;",
-            "B2B_PdtEnDescription": "Lift Magnet;Motor Brake Clutch;Silicon Power Rectifier;Control Panel;Induction Voltage Regulator;Voltage Stabilizer for Power System;Magnetic Clutch and Brake;High Speed Fuses;Auto Cable Reel;Silicon Controlled Rectifiers;",
-            "companyAddress_cht": "新北市土城區中央路1段365巷25號",
-            "companyAddress_en": "No. 25, Lane 365, Sec.1, Chung Yung Rd., Tu Chen Dist., New Taipei City 23665, Taiwan, R.O.C.",
-            "companyEMail": "tachunem@ms65.hinet.net",
-            "companyTel_country": null,
-            "companyTel_area": null,
-            "companyTel_number": "02-22616251",
-            "companyTel_ext": null,
-            "companyFax_country": null,
-            "companyFax_area": null,
-            "companyFax_number": "02-22616250",
-            "companyFax_ext": null,
-            "companyKeywordMerge": "起重電磁鐵,制動器(電動剎車),矽整流器,矽晶體電力用整流器,自動控制盤,電力用電壓穩定器,電力用穩壓器,穩壓器,電磁離合器,高速保險絲,片,電纜回收機,矽控整流器",
-            "contactName_cht": "沈秀雄",
-            "contactName_en": "Shen,Hsiu-Hsiung",
-            "CmpWebSite": "http://jademagnetics.com/"
         }
+
     ]
 }
