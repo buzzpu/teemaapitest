@@ -19,7 +19,44 @@
             "companyKeywordMerge": "50,000KVA以下水力發電整廠工程及柴油引擎發電機組,工廠動力系統設備 1-30,000 HP各種馬達,耐壓防爆,安全增防爆,高效率低噪音,防震等各型馬達",
             "contactName_cht": "林蔚山",
             "contactName_en": "W.S. Lin",
-            "CmpWebSite": "www.tatung.com"
+            "CmpWebSite": "www.tatung.com",
+            "products": [{
+                    "CompanyProductId": "081916ec-c8a3-499a-b73b-231e9e969455",
+                    "productName_cht": "氣體絕緣開關",
+                    "productName_en": null,
+                    "productFeature_cht": "大同161kV/50kA G.I.S.獲得台電國產化認證合格，為目前合格廠家寬度最小之G.I.S.，最適用在地小人稠之臺灣地區。同型G.I.S.已經廣泛使用於高科技廠，如台積電、達碁科技、世大及中正國際機場等公司，產品深獲客戶好評。",
+                    "productFeature_en": "",
+                    "productTypeNumber_cht": "TA-H1",
+                    "pd_img": "http://www.teemab2b.com.tw/product/productFileInfo/ThumbnailImage.ashx?source=product&size=b&img=529b062d-2cab-4424-9ab3-507478ff0cce"
+                },
+                {
+                    "CompanyProductId": "76d19f38-a05d-4946-a9cd-a1f660a49e64",
+                    "productName_cht": "配電盤",
+                    "productName_en": null,
+                    "productFeature_cht": "1. 產品系列齊全：<br>36KV(含)以下中壓閉鎖型配電盤 <br>36KV(含)以下中壓SF6氣體絕緣開關設備(C-GIS) <br>低壓電力中心盤/低壓分電箱 <br>低壓、中壓馬達起動盤/馬達控制中心盤 <br>發電機控制盤/併聯盤 <br>儀表電驛監視控制盤 <br>整合DAS/DCS/SCADA系統及介面 <br>2.信賴性：<br>設計、選料、製造、檢驗、測試、採一貫化之品保驗證體系<br>3.維護性：<br>完整之圖面及操作維護說明書，安全操作，方便維護保養 <br>",
+                    "productFeature_en": "",
+                    "productTypeNumber_cht": "TA-S2",
+                    "pd_img": "http://www.teemab2b.com.tw/product/productFileInfo/ThumbnailImage.ashx?source=product&size=b&img=2d4c59cb-c650-4faf-bc8b-944de641d0ab"
+                },
+                {
+                    "CompanyProductId": "7eb8cf90-edfe-4dde-9294-1b3d2f11258c",
+                    "productName_cht": "配電變壓器",
+                    "productName_en": null,
+                    "productFeature_cht": "",
+                    "productFeature_en": "",
+                    "productTypeNumber_cht": "TA-S1",
+                    "pd_img": "http://www.teemab2b.com.tw/product/productFileInfo/ThumbnailImage.ashx?source=product&size=b&img=d33e6ae2-f70e-443b-8f89-eb21d63185a0"
+                },
+                {
+                    "CompanyProductId": "a1d3bed8-770a-48d5-b0fc-0a6fd39c444a",
+                    "productName_cht": "抗高頻突波漆包銅線",
+                    "productName_en": "Inverter Surge Resistant Magnet Wire",
+                    "productFeature_cht": "<p>與變性聚酯聚亞胺醯胺被覆漆包銅線(PEWHC)相同, 但具抗突波的特性能增加馬達使用的壽命.</p>",
+                    "productFeature_en": "<p>Same ability as Polyester(amide)(imide) overcoated with polyamide-imide copper magnet wire (PEWHC), but the additional advantage of Inverter Surge Resistant could longer the validity period of motors.</p>",
+                    "productTypeNumber_cht": "PEIV",
+                    "pd_img": "http://www.teemab2b.com.tw/product/productFileInfo/ThumbnailImage.ashx?source=product&size=b&img=17017880-da09-4986-abec-6e5cb38d0a60"
+                }
+            ]
         },
         {
             "id": "440002",
