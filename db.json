@@ -67,8 +67,8 @@
         }
     ],
     "products": [{
-            "id": 1,
-            "uid": 370001,
+            "id": "1",
+            "uid": "370001",
             "CompanyProductId": "081916ec-c8a3-499a-b73b-231e9e969455",
             "productName_cht": "氣體絕緣開關",
             "productName_en": null,
@@ -78,8 +78,8 @@
             "pd_img": "http://www.teemab2b.com.tw/product/productFileInfo/ThumbnailImage.ashx?source=product&size=b&img=529b062d-2cab-4424-9ab3-507478ff0cce"
         },
         {
-            "id": 2,
-            "uid": 370001,
+            "id": "2",
+            "uid": "370001",
             "CompanyProductId": "76d19f38-a05d-4946-a9cd-a1f660a49e64",
             "productName_cht": "配電盤",
             "productName_en": null,
@@ -89,8 +89,8 @@
             "pd_img": "http://www.teemab2b.com.tw/product/productFileInfo/ThumbnailImage.ashx?source=product&size=b&img=2d4c59cb-c650-4faf-bc8b-944de641d0ab"
         },
         {
-            "id": 3,
-            "uid": 370001,
+            "id": "3",
+            "uid": "370001",
             "CompanyProductId": "7eb8cf90-edfe-4dde-9294-1b3d2f11258c",
             "productName_cht": "配電變壓器",
             "productName_en": null,
@@ -100,8 +100,8 @@
             "pd_img": "http://www.teemab2b.com.tw/product/productFileInfo/ThumbnailImage.ashx?source=product&size=b&img=d33e6ae2-f70e-443b-8f89-eb21d63185a0"
         },
         {
-            "id": 4,
-            "uid": 370001,
+            "id": "4",
+            "uid": "370001",
             "CompanyProductId": "a1d3bed8-770a-48d5-b0fc-0a6fd39c444a",
             "productName_cht": "抗高頻突波漆包銅線",
             "productName_en": "Inverter Surge Resistant Magnet Wire",
