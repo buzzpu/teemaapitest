@@ -110,5 +110,30 @@
             "productTypeNumber_cht": "PEIV",
             "pd_img": "http://www.teemab2b.com.tw/product/productFileInfo/ThumbnailImage.ashx?source=product&size=b&img=17017880-da09-4986-abec-6e5cb38d0a60"
         }
+    ],
+    "posts": [{
+            "id": "1",
+            "productName_cht": "文章標題1",
+            "articleName_en": null,
+            "articleErief_cht": "標題簡短說明1",
+            "articleErief_en": null,
+            "articleDetail_cht": "標題內文詳細說明1",
+            "articleDetail_en": null,
+            "articleKeywords_cht": "關鍵字",
+            "articleKeywords_en": null,
+            "pd_img": "http://www.teemab2b.com.tw/product/productFileInfo/ThumbnailImage.ashx?source=product&size=b&img=529b062d-2cab-4424-9ab3-507478ff0cce"
+        },
+        {
+            "id": "2",
+            "productName_cht": "文章標題2",
+            "articleName_en": null,
+            "articleErief_cht": "標題簡短說明2",
+            "articleErief_en": null,
+            "articleDetail_cht": "標題內文詳細說明2",
+            "articleDetail_en": null,
+            "articleKeywords_cht": "關鍵字",
+            "articleKeywords_en": null,
+            "pd_img": "http://www.teemab2b.com.tw/product/productFileInfo/ThumbnailImage.ashx?source=product&size=b&img=529b062d-2cab-4424-9ab3-507478ff0cce"
+        }
     ]
 }
