@@ -19,7 +19,18 @@
             "companyKeywordMerge": "50,000KVA以下水力發電整廠工程及柴油引擎發電機組,工廠動力系統設備 1-30,000 HP各種馬達,耐壓防爆,安全增防爆,高效率低噪音,防震等各型馬達",
             "contactName_cht": "林蔚山",
             "contactName_en": "W.S. Lin",
-            "CmpWebSite": "www.tatung.com"
+            "CmpWebSite": "www.tatung.com",
+            "products": [{
+                "id": "2",
+                "cid": "12345678",
+                "CompanyProductId": "76d19f38-a05d-4946-a9cd-a1f660a49e64",
+                "productName_cht": "配電盤(大同)",
+                "productName_en": null,
+                "productFeature_cht": "1. 產品系列齊全：<br>36KV(含)以下中壓閉鎖型配電盤 <br>36KV(含)以下中壓SF6氣體絕緣開關設備(C-GIS) <br>低壓電力中心盤/低壓分電箱 <br>低壓、中壓馬達起動盤/馬達控制中心盤 <br>發電機控制盤/併聯盤 <br>儀表電驛監視控制盤 <br>整合DAS/DCS/SCADA系統及介面 <br>2.信賴性：<br>設計、選料、製造、檢驗、測試、採一貫化之品保驗證體系<br>3.維護性：<br>完整之圖面及操作維護說明書，安全操作，方便維護保養 <br>",
+                "productFeature_en": "",
+                "productTypeNumber_cht": "TA-S2",
+                "pd_img": "http://www.teemab2b.com.tw/product/productFileInfo/ThumbnailImage.ashx?source=product&size=b&img=2d4c59cb-c650-4faf-bc8b-944de641d0ab"
+            }]
 
         },
         {
