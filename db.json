@@ -109,17 +109,7 @@
             "contactName_cht": "沈秀雄",
             "contactName_en": "Shen,Hsiu-Hsiung",
             "CmpWebSite": "http://jademagnetics.com/",
-            "products": [{
-                "id": "1",
-                "uid": "370001",
-                "CompanyProductId": "081916ec-c8a3-499a-b73b-231e9e969455",
-                "productName_cht": "氣體絕緣開關(大春)",
-                "productName_en": null,
-                "productFeature_cht": "大同161kV/50kA G.I.S.獲得台電國產化認證合格，為目前合格廠家寬度最小之G.I.S.，最適用在地小人稠之臺灣地區。同型G.I.S.已經廣泛使用於高科技廠，如台積電、達碁科技、世大及中正國際機場等公司，產品深獲客戶好評。",
-                "productFeature_en": "",
-                "productTypeNumber_cht": "TA-H1",
-                "pd_img": "http://www.teemab2b.com.tw/product/productFileInfo/ThumbnailImage.ashx?source=product&size=b&img=529b062d-2cab-4424-9ab3-507478ff0cce"
-            }]
+            "products": []
         }
     ],
     "posts": [{
