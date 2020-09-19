@@ -69,7 +69,7 @@
     ],
     "products": [{
             "id": "1",
-            "uid": "370001",
+            "cid": "370001",
             "CompanyProductId": "081916ec-c8a3-499a-b73b-231e9e969455",
             "productName_cht": "氣體絕緣開關(大同)",
             "productName_en": null,
@@ -80,7 +80,7 @@
         },
         {
             "id": "2",
-            "uid": "370001",
+            "cid": "370001",
             "CompanyProductId": "76d19f38-a05d-4946-a9cd-a1f660a49e64",
             "productName_cht": "配電盤(大同)",
             "productName_en": null,
@@ -91,7 +91,7 @@
         },
         {
             "id": "3",
-            "uid": "370001",
+            "cid": "370001",
             "CompanyProductId": "7eb8cf90-edfe-4dde-9294-1b3d2f11258c",
             "productName_cht": "配電變壓器(大同)",
             "productName_en": null,
