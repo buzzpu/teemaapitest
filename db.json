@@ -4,7 +4,7 @@
             "companyName_cht": "大同股份有限公司",
             "companyName_en": "Tatung Co.",
             "B2B_PdtChDescription": "50,000KVA以下水力發電整廠工程及柴油引擎發電機組;工廠動力系統設備 1-30,000 HP各種馬達;耐壓防爆,安全增防爆,高效率低噪音,防震等各型馬達;",
-            "B2B_PdtEnDescription": "Hydroelectric Power-Generating Facilities & Diesel Engine Drived Generator Sets;Induction Motors and Synchronous Motors 30,000 HP and Below;Increased-Saftey and Explosion-Proof Motors;Motor-Generator Set;",
+            "B2B_PdtEnDescription": "Hydroelectric Power-Generating Facilities & Diesel Engine Drived Generator Sets;Induction;",
             "companyAddress_cht": "台北市中山區中山北路3段22號",
             "companyAddress_en": "No. 22, Sec. 3, Zhongshan N. Rd., Zhongshan Dist., Taipei City 10435, Taiwan, R.O.C.",
             "companyEMail": "wylin@tatung.com",
@@ -60,7 +60,7 @@
                     "productName_cht": "抗高頻突波漆包銅線(大同)",
                     "productName_en": "Inverter Surge Resistant Magnet Wire",
                     "productFeature_cht": "<p>與變性聚酯聚亞胺醯胺被覆漆包銅線(PEWHC)相同, 但具抗突波的特性能增加馬達使用的壽命.</p>",
-                    "productFeature_en": "<p>Same ability as Polyester(amide)(imide) overcoated with polyamide-imide copper magnet wire (PEWHC), but the additional advantage of Inverter Surge Resistant could longer the validity period of motors.</p>",
+                    "productFeature_en": "<p>Same ability as </p>",
                     "productTypeNumber_cht": "PEIV",
                     "pd_img": "http://www.teemab2b.com.tw/product/productFileInfo/ThumbnailImage.ashx?source=product&size=b&img=17017880-da09-4986-abec-6e5cb38d0a60"
                 }
